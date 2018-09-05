@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>3.10</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>PADManager 2.0.52</MASTER_PAD_EDITOR>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <RoboSoft>
+    <Company_UIN>CMP-00940A756B0</Company_UIN>
+    <Company_Description>OfficeSIP Communications develop the SIP VoIP server and clients for use in business scenarios.</Company_Description>
+    <Product_UIN>APP-00A21329D8A</Product_UIN>
+    <Publish_on_CD>TRUE</Publish_on_CD>
+    <RSProductType></RSProductType>
+    <Search_String></Search_String>
+    <Press_Release_Search_String></Press_Release_Search_String>
+    <NewsFeed_Search_String></NewsFeed_Search_String>
+    <Search_Engine_Search_String></Search_Engine_Search_String>
+    <Web_Directories_Search_String></Web_Directories_Search_String>
+    <Search_String_Unique></Search_String_Unique>
+    <Comments_For_Reviewer></Comments_For_Reviewer>
+    <Additional_Categories></Additional_Categories>
+    <Backlink></Backlink>
+  </RoboSoft>
+  <Company_Info>
+    <Company_Name>OfficeSIP Communications</Company_Name>
+    <Address_1>Voikova, 11</Address_1>
+    <Address_2></Address_2>
+    <City_Town>Taganrog</City_Town>
+    <State_Province>NA</State_Province>
+    <Zip_Postal_Code>347904</Zip_Postal_Code>
+    <Country>Russian Federation</Country>
+    <Company_WebSite_URL>http://www.officesip.com</Company_WebSite_URL>
+    <Contact_Info>
+      <Contact_First_Name>Vitali</Contact_First_Name>
+      <Contact_Last_Name>Fomine</Contact_Last_Name>
+      <Contact_Email>info@officesip.com</Contact_Email>
+      <Author_Email>info@officesip.com</Author_Email>
+      <Author_First_Name>Vitali</Author_First_Name>
+      <Author_Last_Name>Fomine</Author_Last_Name>
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email>info@officesip.com</Sales_Email>
+      <Support_Email>info@officesip.com</Support_Email>
+      <General_Email>info@officesip.com</General_Email>
+      <Sales_Phone>+7.8634620952</Sales_Phone>
+      <Support_Phone>+7.8634620952</Support_Phone>
+      <General_Phone>+7.8634620952</General_Phone>
+      <Fax_Phone>+7.8634620952</Fax_Phone>
+    </Support_Info>
+  </Company_Info>
+  <NewsFeed>
+    <NewsFeed_FORM>Y</NewsFeed_FORM>
+    <NewsFeed_VERSION>1.0</NewsFeed_VERSION>
+    <NewsFeed_URL>http://Submit-Everywhere.com/extensions/NewsFeed.htm</NewsFeed_URL>
+    <NewsFeed_Type>RSS 0.90</NewsFeed_Type>
+    <NewsFeed_Language>English</NewsFeed_Language>
+    <NewsFeed_Purpose>News</NewsFeed_Purpose>
+    <NewsFeed_Author_Email>info@officesip.com</NewsFeed_Author_Email>
+    <NewsFeed_Author_First_Name>Vitali</NewsFeed_Author_First_Name>
+    <NewsFeed_Author_Last_Name>Fomine</NewsFeed_Author_Last_Name>
+    <NewsFeed_DESCRIPTION></NewsFeed_DESCRIPTION>
+    <NewsFeed_Feed_URL></NewsFeed_Feed_URL>
+    <NewsFeed_Site_Name></NewsFeed_Site_Name>
+    <NewsFeed_Site_URL></NewsFeed_Site_URL>
+    <NewsFeed_Title></NewsFeed_Title>
+    <NewsFeed_Description_70></NewsFeed_Description_70>
+    <NewsFeed_Description_250></NewsFeed_Description_250>
+  </NewsFeed>
+  <Site>
+    <Site_FORM>Y</Site_FORM>
+    <Site_VERSION>1.0</Site_VERSION>
+    <Site_URL>http://Submit-Everywhere.com/extensions/Site.htm</Site_URL>
+    <Site_DESCRIPTION>This PAD extension allows you to add your site info into your PAD file. This info can be used by site submission software or by web directories themselves.</Site_DESCRIPTION>
+    <Site_Site_Title>OfficeSIP Softphone</Site_Site_Title>
+    <Site_Site_URL>http://www.officesip.com/softphone.html</Site_Site_URL>
+    <Site_Description_100>Freeware SIP video softphone for Windows for VOIP providers and SIP PBX.</Site_Description_100>
+    <Site_Keywords>softphone,sip,voip,video,voice,chat,communication</Site_Keywords>
+    <Site_Contact_Email>info@officesip.com</Site_Contact_Email>
+    <Site_Contact_First_Name>Vitali</Site_Contact_First_Name>
+    <Site_Contact_Last_Name>Fomine</Site_Contact_Last_Name>
+    <Site_Description_250>OfficeSIP Softphone is an audio / video softphone for Windows primarily for use in business scenarios, offering you an efficient and easy way of communication for free.</Site_Description_250>
+    <Site_Description_450>OfficeSIP Softphone is the ideal audio / video communications tool for you to use in your business, supporting a wide range of VoIP SIP servers. The program is also offered for free, providing you with a simple yet effective solution with minimal hassle. Audio and video quality is exceptionally good and the program is highly compatible and easy to set up. It does not utilize any unnecessary extra controls and gives you everything you need.</Site_Description_450>
+  </Site>
+  <Press_Release>
+    <Press_Release>OfficeSIP Softphone gives you everything you need to allow complete audio and video communication within your organization whether over a local area network or over the Internet. The software is simple and easy to use while giving you everything you need to facilitate communication around the office. Best of all, the program is completely free and does not confuse you with a great number of extra, unnecessary controls. Sound and video quality is also very  high and the program is fully compatible with a number of different SIP servers including MS Office Communications Server, CommuniGate Pro and the free OfficeSIP Server. OfficeSIP Softphone is the ideal solution for communications in business scenarios but it also allows home users to call via the Internet by using VoIP providers such as SIPNET or CallCentric. The program is provided completely free and setting up and using it is an extremely simple process requiring no special knowledge. You can enjoy a highly straightforward interface of a typical Windows program without any fancy skins and confusing button placement. To find out more, visit http://www.officesip.com/softphone.html.</Press_Release>
+    <Summary>OfficeSIP Softphone is an audio / video communication tool primarily for use in business scenarios, offering you an efficient and easy way of communication for free.</Summary>
+    <Headline>OfficeSIP Softphone is released. Free voice &amp; video softphone for Windows.</Headline>
+    <Keywords></Keywords>
+    <Related_URL></Related_URL>
+  </Press_Release>
+  <Program_Info>
+    <Program_Name>OfficeSIP Softphone</Program_Name>
+    <Program_Version>1.0.5</Program_Version>
+    <Program_Release_Month>02</Program_Release_Month>
+    <Program_Release_Day>19</Program_Release_Day>
+    <Program_Release_Year>2010</Program_Release_Year>
+    <Program_Cost_Dollars>0.00</Program_Cost_Dollars>
+    <Program_Type>Freeware</Program_Type>
+    <Program_Release_Status>New Release</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>WinXP,WinVista,WinVista x64,Win7 x32,Win7 x64,Windows2003,WinServer,Windows Vista Ultimate,Windows Vista Ultimate x64,Windows Vista Starter,Windows Vista Home Basic,Windows Vista Home Premium,Windows Vista Business,Windows Vista Enterprise,Windows Vista Home Basic x64,Windows Vista Home Premium x64,Windows Vista Business x64,Windows Vista Enterprise x64</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_Change_Info>New Release</Program_Change_Info>
+    <Program_System_Requirements>.NET Framework 3.5 SP1</Program_System_Requirements>
+    <Program_Category_Class>Communications::Telephony</Program_Category_Class>
+    <File_Info>
+      <File_Size_Bytes>4886598</File_Size_Bytes>
+      <File_Size_K>4772</File_Size_K>
+      <File_Size_MB>4.66</File_Size_MB>
+      <Filename_Versioned></Filename_Versioned>
+      <Filename_Previous></Filename_Previous>
+      <Filename_Generic></Filename_Generic>
+      <Filename_Long></Filename_Long>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>N</Has_Expire_Info>
+      <Expire_Based_On>Days</Expire_Based_On>
+      <Expire_Count></Expire_Count>
+      <Expire_Other_Info></Expire_Other_Info>
+      <Expire_Month></Expire_Month>
+      <Expire_Day></Expire_Day>
+      <Expire_Year></Expire_Year>
+    </Expire_Info>
+    <Program_Categories>Communication :: Voice/Video Chat,Internet :: Communication and Chat,Communication :: Misc. Communication</Program_Categories>
+    <Limitations>No limitations</Limitations>
+    <Program_Cost_Other_Code></Program_Cost_Other_Code>
+    <Program_Cost_Other></Program_Cost_Other>
+    <Awards></Awards>
+    <Program_Specific_Category></Program_Specific_Category>
+    <Includes_JAVA_VM></Includes_JAVA_VM>
+    <Includes_VB_Runtime></Includes_VB_Runtime>
+    <Includes_DirectX></Includes_DirectX>
+  </Program_Info>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>http://www.officesip.com/softphone.html</Application_Info_URL>
+      <Application_Order_URL>http://www.officesip.com</Application_Order_URL>
+      <Application_Screenshot_URL>http://www.officesip.com/images/softphone-1.png</Application_Screenshot_URL>
+      <Application_Icon_URL>http://www.officesip.com/images/softphone-0.gif</Application_Icon_URL>
+      <Application_XML_File_URL>http://www.officesip.com/download/officesip-softphone.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>http://sip-softphone.googlecode.com/files/officesip-softphone-1.0.exe</Primary_Download_URL>
+      <Secondary_Download_URL>http://sip-softphone.googlecode.com/files/officesip-softphone-1.0.msi</Secondary_Download_URL>
+      <Additional_Download_URL_1></Additional_Download_URL_1>
+      <Additional_Download_URL_2></Additional_Download_URL_2>
+    </Download_URLs>
+  </Web_Info>
+  <Permissions>
+    <Distribution_Permissions>This product can be freely distributed through the Internet. To publish it on a CD, please contact info@officesip.com</Distribution_Permissions>
+    <EULA>THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS FREEWARE LICENSE ("AGREEMENT"). ANY USE, REPRODUCTION OR DISTRIBUTION OF THE PROGRAM CONSTITUTES RECIPIENT'S ACCEPTANCE OF THIS AGREEMENT.
+
+Freeware License Rights: Program distributed in accordance with this Agreement provided as freeware. Freeware products are provided free of charge. Freeware software may be used as many times as you like, for as long as you like, for non-commercial, commercial and other purposes. You may copy and distribute copies of this program provided that you keep this copyright notice and disclaimer of warranty intact. You must not charge money or fees for the software product to anyone except to cover distribution costs. You may not reverse engineer, disassemble, decompile or otherwise attempt to derive source code from the Software. The copyright holder reserves the right to reclassify this software as a non-freeware product at a later date (i.e. shareware of public domain). Doing so will not modify the license agreement of previously distributed executables.
+
+Warranty: This program is provided “as is” without warranties of any kind, either expressed or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. The entire risk as to the quality and performance of the program is with you. Should the program prove defective, you assume the cost of all necessary servicing, repair or correction. In no event will any copyright holder be liable to you for damages, including any general, special, incidental or consequential damages arising out of the use or inability to use the program (including but not limited to loss of data or data being rendered inaccurate or losses sustained by you or third parties or a failure of the program to operate with any other programs).</EULA>
+  </Permissions>
+  <Program_Descriptions>
+    <English>
+      <Keywords>softphone,sip,voip,video,voice,chat,communication</Keywords>
+      <Char_Desc_45>Freeware SIP VoIP video softphone for Windows</Char_Desc_45>
+      <Char_Desc_80>Freeware SIP video softphone for Windows for VoIP providers and SIP PBX.</Char_Desc_80>
+      <Char_Desc_250>OfficeSIP Softphone is an audio / video softphone for Windows primarily for use in business scenarios, offering you an efficient and easy way of communication for free.</Char_Desc_250>
+      <Char_Desc_450>OfficeSIP Softphone is the ideal audio / video communications tool for you to use in your business, supporting a wide range of VoIP SIP servers. The softphone is also offered for free, providing you with a simple yet effective solution with minimal hassle. Audio and video quality is exceptionally good and the program is highly compatible and easy to set up. It does not utilize any unnecessary extra controls and gives you everything you need.</Char_Desc_450>
+      <Char_Desc_2000>OfficeSIP Softphone gives you everything you need to allow complete audio and video communication within your organization whether over a local area network or over the Internet. The software is simple and easy to use while giving you everything you need to facilitate communication around the office. You can enjoy a highly straightforward interface of a typical Windows program without any fancy skins and confusing button placement. Best of all, the softphone is completely free and does not confuse you with a great number of extra, unnecessary controls. Sound and video quality is also very high and the softphone is fully compatible with a number of different SIP VoIP servers including MS Office Communications Server, CommuniGate Pro and the free Office SIP Server. OfficeSIP Softphone is the ideal solution for communications in business scenarios but it also allows home users to call via the Internet by using VoIP providers. The program is provided completely free and setting up and using it is an extremely simple process requiring no special knowledge. To find out more, visit http://www.officesip.com/softphone.html.</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+</XML_DIZ_INFO>

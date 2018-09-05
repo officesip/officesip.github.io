@@ -1,0 +1,42 @@
+Redirect 301 /alerter.html http://www.officesip.com/index.html
+Redirect 301 /crash.html http://www.officesip.com/index.html
+Redirect 301 /download.html http://www.officesip.com/index.html
+Redirect 301 /feedback.html http://www.officesip.com/index.html
+Redirect 301 /feedback.php http://www.officesip.com/index.html
+Redirect 301 /screenshots.html http://www.officesip.com/index.html
+Redirect 301 /sip-server.html http://www.officesip.com/index.html
+Redirect 301 /tutorial-add-voip-provider.html http://www.officesip.com/howto-add-voip-provider.html
+Redirect 301 /tutorial-android-sipdroid.html http://www.officesip.com/howto-android-sipdroid.html
+Redirect 301 /tutorial-dns.html http://www.officesip.com/howto-dns.html
+Redirect 301 /tutorial-port-forwarding.html http://www.officesip.com/howto-port-forwarding.html
+Redirect 301 /tutorial-sip-setup.html http://www.officesip.com/howto-sip-setup.html
+Redirect 301 /tutorial-spn.html http://www.officesip.com/howto-spn.html
+Redirect 301 /tutorial-xml-config.html http://www.officesip.com/howto-xml-config.html
+Redirect 301 /windows-messenger.html http://www.officesip.com/howto-windows-messenger.html
+Redirect 301 /x-lite.html http://www.officesip.com/howto-x-lite.html
+Redirect /download/officesip-alerter-1.0.exe http://www.officesip.com/download/officesip-alerter-1.1.exe
+Redirect /download/officesip-messenger-1.5.exe http://www.officesip.com/download/officesip-messenger-1.9.exe
+Redirect /download/officesip-messenger-1.5.msi http://www.officesip.com/download/officesip-messenger-1.9.msi
+Redirect /download/officesip-messenger-1.6.exe http://www.officesip.com/download/officesip-messenger-1.9.exe
+Redirect /download/officesip-messenger-1.6.msi http://www.officesip.com/download/officesip-messenger-1.9.msi
+Redirect /download/officesip-messenger-1.7.exe http://www.officesip.com/download/officesip-messenger-1.9.exe
+Redirect /download/officesip-messenger-1.7.msi http://www.officesip.com/download/officesip-messenger-1.9.msi
+Redirect /download/officesip-messenger-1.8.exe http://www.officesip.com/download/officesip-messenger-1.9.exe
+Redirect /download/officesip-messenger-1.8.msi http://www.officesip.com/download/officesip-messenger-1.9.msi
+Redirect /download/OfficeSIP-Server-1.0.exe http://www.officesip.com/download/OfficeSIP-Server-2.7.exe
+Redirect /download/OfficeSIP-Server-1.0.msi http://www.officesip.com/download/OfficeSIP-Server-2.7.msi
+Redirect /download/OfficeSIP-Server-1.1.msi http://www.officesip.com/download/OfficeSIP-Server-2.7.exe
+Redirect /download/OfficeSIP-Server-1.2.msi http://www.officesip.com/download/OfficeSIP-Server-2.7.exe
+Redirect /download/OfficeSIP-Server-2.0.zip http://www.officesip.com/download/OfficeSIP-Server-2.7.zip
+Redirect /download/OfficeSIP-Server-2.1.exe http://www.officesip.com/download/OfficeSIP-Server-2.7.exe
+Redirect /download/OfficeSIP-Server-2.1.zip http://www.officesip.com/download/OfficeSIP-Server-2.7.zip
+Redirect /download/OfficeSIP-Server-2.2.exe http://www.officesip.com/download/OfficeSIP-Server-2.7.exe
+Redirect /download/OfficeSIP-Server-2.2.zip http://www.officesip.com/download/OfficeSIP-Server-2.7.zip
+Redirect /download/OfficeSIP-Server-2.3.exe http://www.officesip.com/download/OfficeSIP-Server-2.7.exe
+Redirect /download/OfficeSIP-Server-2.3.zip http://www.officesip.com/download/OfficeSIP-Server-2.7.zip
+Redirect /download/OfficeSIP-Server-2.4.exe http://www.officesip.com/download/OfficeSIP-Server-2.7.exe
+Redirect /download/OfficeSIP-Server-2.4.zip http://www.officesip.com/download/OfficeSIP-Server-2.7.zip
+Redirect /download/OfficeSIP-Server-2.5.exe http://www.officesip.com/download/OfficeSIP-Server-2.7.exe
+Redirect /download/OfficeSIP-Server-2.5.zip http://www.officesip.com/download/OfficeSIP-Server-2.7.zip
+Redirect /download/OfficeSIP-Server-2.6.exe http://www.officesip.com/download/OfficeSIP-Server-2.7.exe
+Redirect /download/OfficeSIP-Server-2.6.zip http://www.officesip.com/download/OfficeSIP-Server-2.7.zip
